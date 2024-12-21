@@ -38,6 +38,19 @@ This is a Java-based **Blackjack** game that utilizes a graphical user interface
 6. **Game Progression**
    - If your balance reaches $0, the game resets.
    - Your high score and statistics are saved automatically.
+     
+## Screenshots
+### Game Example 1
+![Game example 1](gameScreenshots/blackjack_game_exp1.png)
+
+### Game Example 2
+![Game Example 2](gameScreenshots/blackjack_game_exp2.png)
+
+### Game End Screen
+![Game End Screen](gameScreenshots/blackjack_cash_out.png)
+
+### Title Screen
+![Title Screen](gameScreenshots/blackjack_title_screen.png)
 
 ## Requirements
 
